@@ -1,0 +1,13 @@
+{
+  "name": "contact-project",
+  "version": "1.0.0",
+  "description": "MongoDB and Mongoose checkpoint project",
+  "main": "contacts.js",
+  "scripts": {
+    "start": "node contacts.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.0",
+    "dotenv": "^16.0.0"
+  }
+}

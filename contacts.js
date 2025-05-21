@@ -1,3 +1,8 @@
+// Mongoose Checkpoint Solution
+// This file demonstrates CRUD operations using Mongoose and MongoDB Atlas
+// Don't forget to set your MONGO_URI in the .env file!
+// See mongoose-checkpoint.js for the full solution
+
 const { MongoClient } = require("mongodb");
 
 const uri = "mongodb://localhost:27017"; // Ensure MongoDB is running locally
